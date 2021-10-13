@@ -1,0 +1,6 @@
+1|Avatar|James Cameron|fantasy|6|26|Kasia163|02-03-2021|Bardzo dobry film.;Polecam.;Warte obejrzenia;aaaa
+2|Czas na mi³oœæ|Richard Curtis|romans|5|23|null|null|Super!;OK;Bardzo dobry film
+3|Coco|Lee Unkrich|animacja|4|20|klient1|10-02-2021|Cudowny!
+4|Bêkarty wojny|Quentin Tarantino|wojenny|5|23|basia|12-02-2021|Polecam
+5|Interstellar|Christopher Nolan|Sci-Fi|3|10|klient1|10-02-2021|OK
+6|aaa|aad|ffff|0|0|null|null|
